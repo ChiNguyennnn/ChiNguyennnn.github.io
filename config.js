@@ -15,7 +15,7 @@ const CONFIG = {
     Để lòng tự hỏi hai mươi ngày gì?\n\
     Thì là ngày lễ chứ chi\n\
     Ngồi đây thuận bút nhâm nhi thơ chiều\n\
-    Chúc cho sức khỏe nhiều\n\
+    Chúc cho chị sức khỏe nhiều\n\
     Thời gian sắp tới bao điều bình an\n\
     ',
     poem2:'    Chúc cho sức sống ngập tràn\n\
