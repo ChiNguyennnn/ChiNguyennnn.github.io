@@ -22,10 +22,10 @@ const CONFIG = {
     Dồi dào năng lượng hân hoan yêu đời \n\
     Chúc luôn vui vẻ rạng ngời \n\
     Ngày càng hạnh phúc nụ cười trên môi. \n\
-    .....Vậy đó nhen, món quà tinh thần của em chỉ có vậy\n\
+    #Vậy đó nhen, món quà tinh thần của em đóy\n\
     Chúc chị 20/10 vui vẻ nè\n\
     ',
-    mess: 'Ngày 20/10 thật vui nha chị',
+    mess: 'Ngày 20/10 thật vui vui vui nha chị',
     messTitle: "Gửi Chị Nguyen",
     messDesc: '🥳',
     btnAccept: 'Ok',
