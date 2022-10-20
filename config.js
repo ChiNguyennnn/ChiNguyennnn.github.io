@@ -10,7 +10,7 @@ const CONFIG = {
     question:'Chắc là',
     reasonPlaceholder: 'Gõ bất kì nội dung gì chị nghĩ vào đây nha...',
     btnReply: 'Send',
-    reply: ' Hôm nay là 20/10 rồi ấy, em chúc chị luôn mỉm cười và vui vẻ hanh phúc nè, tràn đầy năng lượng trong cuộc sống.🥳',
+    reply: ' Hôm nay là 20/10 rồi ấy, em chúc chị luôn mỉm cười và vui vẻ hạnh phúc nè, tràn đầy năng lượng trong cuộc sống.🥳',
     poem1:'    Sài gòn mưa lạnh tháng mười\n\
     Để lòng tự hỏi hai mươi ngày gì?\n\
     Thì là ngày lễ chứ chi\n\
