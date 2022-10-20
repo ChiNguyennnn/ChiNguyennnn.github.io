@@ -24,7 +24,7 @@ audio {
     position: absolute;
     display: inline-block;
     left: 35%; 
-    top: 65vh;
+    top: 50vh;
     -webkit-transition: all 0.1s ease-out;
   }
   #yes{
